@@ -1,0 +1,235 @@
+{
+  "1": {
+    "0x0000000000000000000000000000000000000000": {
+      "symbol": "ETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x0000000000000000000000000000000000000000.svg",
+      "decimals": 18
+    },
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+      "symbol": "WETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.svg",
+      "decimals": 18
+    },
+    "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": {
+      "symbol": "weETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee.svg",
+      "decimals": 18
+    },
+    "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+      "symbol": "wstETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.svg",
+      "decimals": 18
+    },
+    "0xfae103dc9cf190ed75350761e95403b7b8afa6c0": {
+      "symbol": "rswETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0xfae103dc9cf190ed75350761e95403b7b8afa6c0.svg",
+      "decimals": 18
+    },
+    "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+      "symbol": "WBTC",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg",
+      "decimals": 8
+    },
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+      "symbol": "USDC",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg",
+      "decimals": 6
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+      "symbol": "USDT",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg",
+      "decimals": 6
+    },
+    "0x853d955acef822db058eb8505911ed77f175b99e": {
+      "symbol": "FRAX",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x853d955acef822db058eb8505911ed77f175b99e.svg",
+      "decimals": 18
+    },
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+      "symbol": "DAI",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x6b175474e89094c44da98b954eedeac495271d0f.svg",
+      "decimals": 18
+    },
+    "0x0a6e7ba5042b38349e437ec6db6214aec7b35676": {
+      "symbol": "SWELL",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x0a6e7ba5042b38349e437ec6db6214aec7b35676.svg",
+      "decimals": 18
+    },
+    "0x3b50805453023a91a8bf641e279401a0b23fa6f9": {
+      "symbol": "REZ",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1/0x3b50805453023a91a8bf641e279401a0b23fa6f9.svg",
+      "decimals": 18
+    }
+  },
+  "1923": {
+    "0x0000000000000000000000000000000000000000": {
+      "symbol": "ETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x0000000000000000000000000000000000000000.svg",
+      "decimals": 18
+    },
+    "0x4200000000000000000000000000000000000006": {
+      "symbol": "WETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x4200000000000000000000000000000000000006.svg",
+      "decimals": 18
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "symbol": "USDe",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
+      "decimals": 18
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "symbol": "sUSDe",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.svg",
+      "decimals": 18
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "symbol": "ENA",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x58538e6a46e07434d7e7375bc268d3cb839c0133.svg",
+      "decimals": 18
+    },
+    "0x18d33689ae5d02649a859a1cf16c9f0563975258": {
+      "symbol": "rswETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x18d33689ae5d02649a859a1cf16c9f0563975258.svg",
+      "decimals": 18
+    },
+    "0xa6cb988942610f6731e664379d15ffcfbf282b44": {
+      "symbol": "weETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0xa6cb988942610f6731e664379d15ffcfbf282b44.svg",
+      "decimals": 18
+    },
+    "0x7c98e0779eb5924b3ba8ce3b17648539ed5b0ecc": {
+      "symbol": "wstETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x7c98e0779eb5924b3ba8ce3b17648539ed5b0ecc.svg",
+      "decimals": 18
+    },
+    "0x2826d136f5630ada89c1678b64a61620aab77aea": {
+      "symbol": "SWELL",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x2826d136f5630ada89c1678b64a61620aab77aea.svg",
+      "decimals": 18
+    },
+    "0x939f1cc163fdc38a77571019eb4ad1794873bf8c": {
+      "symbol": "rSWELL",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x939f1cc163fdc38a77571019eb4ad1794873bf8c.svg",
+      "decimals": 18
+    },
+    "0xda1f8ea667dc5600f5f654df44b47f1639a83dd1": {
+      "symbol": "wSWELL",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0xda1f8ea667dc5600f5f654df44b47f1639a83dd1.svg",
+      "decimals": 18
+    },
+    "0xc3eacf0612346366db554c991d7858716db09f58": {
+      "symbol": "rsETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0xc3eacf0612346366db554c991d7858716db09f58.svg",
+      "decimals": 18
+    },
+    "0x2416092f143378750bb29b79ed961ab195cceea5": {
+      "symbol": "ezETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x2416092f143378750bb29b79ed961ab195cceea5.svg",
+      "decimals": 18
+    },
+    "0x9cb41cd74d01ae4b4f640ec40f7a60ca1bcf83e7": {
+      "symbol": "pzETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x9cb41cd74d01ae4b4f640ec40f7a60ca1bcf83e7.svg",
+      "decimals": 18
+    }
+  },
+  "543352": {
+    "0x0000000000000000000000000000000000000000": {
+      "symbol": "ETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0x0000000000000000000000000000000000000000.svg",
+      "decimals": 18
+    },
+    "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32": {
+      "symbol": "wstETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32.svg",
+      "decimals": 18
+    },
+    "0x01f0a31698c4d065659b9bdc21b3610292a1c506": {
+      "symbol": "weETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0x01f0a31698c4d065659b9bdc21b3610292a1c506.svg",
+      "decimals": 18
+    },
+    "0x89f17ab70cafb1468d633056161573efefea0713": {
+      "symbol": "rswETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0x89f17ab70cafb1468d633056161573efefea0713.svg",
+      "decimals": 18
+    },
+    "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1": {
+      "symbol": "WBTC",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1.svg",
+      "decimals": 8
+    },
+    "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4": {
+      "symbol": "USDC",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4.svg",
+      "decimals": 6
+    },
+    "0xf55bec9cafdbe8730f096aa55dad6d22d44099df": {
+      "symbol": "USDT",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0xf55bec9cafdbe8730f096aa55dad6d22d44099df.svg",
+      "decimals": 6
+    },
+    "0xd29687c813d741e2f938f4ac377128810e217b1b": {
+      "symbol": "SCR",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0xd29687c813d741e2f938f4ac377128810e217b1b.svg",
+      "decimals": 18
+    },
+    "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f": {
+      "symbol": "wrsETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/543352/0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f.svg",
+      "decimals": 18
+    }
+  },
+  "8453": {
+    "0x0000000000000000000000000000000000000000": {
+      "symbol": "ETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x0000000000000000000000000000000000000000.svg",
+      "decimals": 18
+    },
+    "0x4200000000000000000000000000000000000006": {
+      "symbol": "WETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x4200000000000000000000000000000000000006.svg",
+      "decimals": 18
+    },
+    "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452": {
+      "symbol": "wstETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452.svg",
+      "decimals": 18
+    },
+    "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913": {
+      "symbol": "USDC",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg",
+      "decimals": 6
+    },
+    "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2": {
+      "symbol": "USDT",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2.svg",
+      "decimals": 6
+    },
+    "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376": {
+      "symbol": "USD+",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0xb79dd08ea68a908a97220c76d19a6aa9cbde4376.svg",
+      "decimals": 6
+    },
+    "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
+      "symbol": "cbBTC",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.svg",
+      "decimals": 8
+    },
+    "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b": {
+      "symbol": "VIRTUAL",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b.svg",
+      "decimals": 18
+    },
+    "0x532f27101965dd16442e59d40670faf5ebb142e4": {
+      "symbol": "BRETT",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x532f27101965dd16442e59d40670faf5ebb142e4.svg",
+      "decimals": 18
+    },
+    "0x940181a94a35a4569e4529a3cdfb74e38fd98631": {
+      "symbol": "AERO",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x940181a94a35a4569e4529a3cdfb74e38fd98631.svg",
+      "decimals": 18
+    }
+  }
+}
