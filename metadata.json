@@ -61,6 +61,18 @@
       "decimals": 18
     }
   },
+  "56": {
+    "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
+      "symbol": "ETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/56/0x2170ed0880ac9a755fd29b2688956bd959f933f8.svg",
+      "decimals": 18
+    },
+    "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
+      "symbol": "WBNB",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/56/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.svg",
+      "decimals": 18
+    }
+  },
   "1923": {
     "0x0000000000000000000000000000000000000000": {
       "symbol": "ETH",
@@ -131,6 +143,11 @@
       "symbol": "pzETH",
       "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x9cb41cd74d01ae4b4f640ec40f7a60ca1bcf83e7.svg",
       "decimals": 18
+    },
+    "0x102d758f688a4c1c5a80b116bd945d4455460282": {
+      "symbol": "USD₮0",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/1923/0x102d758f688a4c1c5a80b116bd945d4455460282.svg",
+      "decimals": 6
     }
   },
   "543352": {
