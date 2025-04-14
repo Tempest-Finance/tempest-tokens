@@ -248,5 +248,17 @@
       "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/8453/0x940181a94a35a4569e4529a3cdfb74e38fd98631.svg",
       "decimals": 18
     }
+  },
+  "98866": {
+    "0x0000000000000000000000000000000000000000": {
+      "symbol": "ETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/98866/0x0000000000000000000000000000000000000000.svg",
+      "decimals": 18
+    },
+    "0xca59ca09e5602fae8b629dee83ffa819741f14be": {
+      "symbol": "WETH",
+      "url": "https://raw.githubusercontent.com/Tempest-Finance/tempest-tokens/main/tokens/98866/0xca59ca09e5602fae8b629dee83ffa819741f14be.svg",
+      "decimals": 18
+    }
   }
 }
